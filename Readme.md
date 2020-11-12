@@ -6,4 +6,4 @@
 
 ![preview](./repoImages/preview.gif)
 
-### [Live Preview Here 😯🚀]()
+### [Live Preview Here 😯🚀](https://frontendfunn.github.io/single-element-css-loader/)
